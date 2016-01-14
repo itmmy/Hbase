@@ -1,4 +1,4 @@
-package edu.beicai.hbase;
+package com.mmy.hbase;
 
 import java.io.IOException;
 
