@@ -15,7 +15,8 @@ import org.apache.hadoop.hbase.client.Table;
 
 /**
  * 
- * HBase示例类，用来讲解HBase旧版JavaAPI的各种用法
+ * HBase示例类，用来讲解HBase新版JavaAPI的各种用法
+ * 注意：这里没有将引用包添加进来，添加方法为：将自己的Hbase安装目录下的lib目录下的所有jar添加进项目即可
  * @author mmy
  * 
  */
